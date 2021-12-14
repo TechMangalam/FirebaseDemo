@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428036364117",
+    "project_id": "fir-demo-bbfeb",
+    "storage_bucket": "fir-demo-bbfeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428036364117:android:a6cb77d765912c7b33c1dc",
+        "android_client_info": {
+          "package_name": "com.bitaam.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428036364117-fguh9slma477ojjacsgovja608o4qttp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitaam.firebasedemo",
+            "certificate_hash": "9356fd30774bb599f45f16a5805443f36a9a002d"
+          }
+        },
+        {
+          "client_id": "428036364117-3vimlch7t4p21u0vvevjrmg7sug6nvmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlMsq1hdP53FTmD5okM31UIDBXtKbFcoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428036364117-3vimlch7t4p21u0vvevjrmg7sug6nvmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
